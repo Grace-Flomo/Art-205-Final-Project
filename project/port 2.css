@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+header{
+    background-color: black;
+    text-align: center;
+}
+
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 25px;
+}
+
+a{
+    margin: 8px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    float: left;
+    margin-left: 20px;
+}
+
+#home{
+    border: 2px solid darkcyan;
+    border-width: 10px;
+    border-radius: 100px;
+    background-color: darkcyan;
+    color: black;
+}
+
+
+img{
+    margin-left: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+h4, h2{
+    color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bookings{
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid darkcyan;
+    height: 40px;
+    width: 150px;
+    color: rgb(0, 0, 0);
+    float: right;
+}
+
+h1, h2, h4 p{
+    margin: 10px;
+}
+
+#sub{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid darkcyan;
+    height: 40px;
+    width: 150px;
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+}
+
+#pic{
+    width: 500px;
+}
+
+.contan{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    margin: 15px;
+}
+
+.flomo{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 400px;
+}
+
+.pop{
+    border: 2px solid darkcyan;
+    background-color: darkcyan;
+    margin: 10px;
+    border-radius: 100px;
+    height: 50px;
+    color: white;
+}
+
+#p{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px; 
+}
+
+#jj{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.serv{
+    display: flex;
+    justify-content: center;
+}
+
+.grt{
+    border: 2px solid darkcyan;
+    margin: 15px;
+    border-style: dashed;
+    height: 400px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid darkcyan;
+    height: 40px;
+    width: 150px;
+    color: rgb(0, 0, 0);   
+}
+
+#eee{
+    float: right;
+}
+
+form{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#u{
+    border: 2px solid black;
+    background-color: transparent;
+    text-align: center;
+    margin: 15px;
+}
+
+#i{
+    border: auto;
+    width: auto;
+    height: auto;
+}
